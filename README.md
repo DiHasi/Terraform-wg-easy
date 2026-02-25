@@ -26,6 +26,9 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 ```
 
 # Install [Terraform](https://developer.hashicorp.com/terraform) 
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli 
+
+or
 
 Ensure that your system is up to date and that you have installed the gnupg and *software-properties-common packages*. You will use these packages to verify HashiCorp's GPG signature and install HashiCorp's Debian package repository.
 ``` bash
